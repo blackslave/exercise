@@ -1,5 +1,5 @@
 /**
- * 找出陣列中任意3個值合計為0的組合，並全部列出來。
+ * 找出陣列中任意3個值合計為0的組合，並全部列出來
  */
 import java.util.*;
 public class Threesum {
