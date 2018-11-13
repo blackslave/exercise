@@ -1,6 +1,3 @@
-/**
- * •ªˆ×high˜aloww•WŒü’†ŠÔ‘|•`qQ‡Œvˆ×0“I“šˆÄCQ“Œã‘¶“üArrayList’†,’¼“™_w•WŒğ³ˆ×~
- */
 import java.util.*;
 public class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
